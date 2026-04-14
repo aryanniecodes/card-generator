@@ -1,7 +1,7 @@
 # Card Generator (DOM Project)
 
 This is a simple JavaScript DOM project where users can generate a profile card by entering details like image URL, name, occupation, and info.
-For Educational Purpose
+For Educational Purpose.
 
 ## Features
 
