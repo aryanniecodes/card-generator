@@ -14,7 +14,7 @@ For Educational Purpose.
 
 * HTML
 * CSS
-* JavaScript (DOM)
+* JavaScript (for DOM)
 
 ## Purpose
 
